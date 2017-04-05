@@ -6,7 +6,7 @@ A Python program for different sorting algorithms
 
 ### Insertion Sort
 
-![insert-sort](./images/insert-sort.gif)
+![insert-sort](../images/insert-sort.gif)
 
 Image Source:[wikipedia](https://en.wikipedia.org/wiki/Insertion_sort) 
 
@@ -21,7 +21,7 @@ __Properties__
 
 ### Bubble sort
 
-![bubble-sort](./images/bubble-sort.gif)
+![bubble-sort](../images/bubble-sort.gif)
 
 Image Source:[wikipedia](https://en.wikipedia.org/wiki/Bubble_sort) 
 
@@ -36,7 +36,7 @@ __Properties__
 
 ### Quick sort
 
-![quick-sort](./images/Sorting_quicksort.gif)
+![quick-sort](../images/Sorting_quicksort.gif)
 
 Image Source:[wikipedia](https://en.wikipedia.org/wiki/Quicksort) 
 
@@ -50,7 +50,7 @@ __Properties__
 
 ### Selection sort
 
-![selection-sort](./images/Selection_sort.gif)
+![selection-sort](../images/Selection_sort.gif)
 
 Image Source:[wikipedia](https://en.wikipedia.org/wiki/Selection_sort)  
 
@@ -65,7 +65,7 @@ __Properties__
 
 ### Shell sort
 
-![shell-sort](./images/Sorting_shellsort.gif)
+![shell-sort](../images/Sorting_shellsort.gif)
 
 Image Source:[wikipedia](https://en.wikipedia.org/wiki/Shellsort) 
 
@@ -80,7 +80,7 @@ __Properties__
 
 ### Merge sort
 
-![merge-sort](./images/Merge-sort.gif)
+![merge-sort](../images/Merge-sort.gif)
 
 Image Source:[wikipedia](https://en.wikipedia.org/wiki/Merge_sort) 
 
@@ -95,7 +95,7 @@ __Properties__
 
 ### Heap sort
 
-![heap-sort](./images/Heapsort.gif)
+![heap-sort](../images/Heapsort.gif)
 
 Image Source:[wikipedia](https://en.wikipedia.org/wiki/Heapsort) 
 
@@ -110,7 +110,7 @@ __Properties__
 
 ### Gnome sort
 
-![gnome-sort](./images/Sorting_gnomesort.gif)
+![gnome-sort](../images/Sorting_gnomesort.gif)
 
 Image Source:[wikipedia](https://en.wikipedia.org/wiki/Gnome_sort) 
 
@@ -125,7 +125,7 @@ __Properties__
 
 ### Cocktail sort
 
-![cocktail-sort](./images/Sorting_shaker_sort.gif)
+![cocktail-sort](../images/Sorting_shaker_sort.gif)
 
 Image Source:[wikipedia](https://en.wikipedia.org/wiki/Cocktail_shaker_sort) 
 
