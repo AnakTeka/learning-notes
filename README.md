@@ -10,14 +10,18 @@
 ## Algorithms
 
 - [Sort Algorithms](pySorting/README.md)
-- [find length of sequences of identical values in a numpy array (run length encoding)](algorithms/run-length-encoding.md)
-- [Smoothed z-score algo (very robust thresholding algorithm)](algorithms/ThresholdingAlgo.py)
+- [Fourier Transforms](fourier-transforms/README.md)
+- [find length of sequences of identical values in a numpy array (run length encoding)](run-length-encoding/run-length-encoding.md)
+- [Smoothed z-score algo (very robust thresholding algorithm)](run-length-encoding/ThresholdingAlgo.py)
 
 Demo of thresholding algorithm
 
-![Alt Text](algorithms/ThresholdingAlgo.gif)
+![Alt Text](run-length-encoding/ThresholdingAlgo.gif)
 
 
+## Speech Recognition
+
+## Time Series Sequentical Data
 
 ## Great plots
 
