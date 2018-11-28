@@ -1,71 +1,29 @@
 
 
-# Just another repo of Python scripts and codes
+# Keep learning C++
 
 
-Installing packages for python 3.6
+## Learning Resources For Beginners
 
-```sh
-python3.6 -m pip install <package-name>
-```
-
-
-## Scripts
-
-- [Port Scan](scripts/portscan.py)
-- [Brute force SSH logins using paramiko](scripts/ssh-dictionary-attack.py)
-- [dynamic-firmware-analysis](https://github.com/secjey/dynamic-firmware-analysis)
-- [Firmware Analysis Toolkit](https://github.com/attify/firmware-analysis-toolkit)
-- [The most useful python snippets](https://github.com/progrmoiz/python-snippets)
-
-## Algorithms
-
-- [Sort Algorithms](pySorting/README.md)
-- [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
-- [Fourier Transforms](fourier-transforms/README.md)
-- [find length of sequences of identical values in a numpy array (run length encoding)](run-length-encoding/run-length-encoding.md)
-- [Smoothed z-score algo (very robust thresholding algorithm)](run-length-encoding/ThresholdingAlgo.py)
-- [Noise Reduction](noise-reduction/README.md)
+- [programminghelporg](https://www.youtube.com/watch?v=xfgcEjCd9as&list=PL318A5EB91569E29A)
+- [Learning Lad: Learn C++](https://www.youtube.com/playlist?list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C)
+- [A Transition Guide from Python 2.x to C++](https://github.com/mithi/cpp-resources/blob/master/python2cpp.pdf)
+  - Michael H. Goldwasser David Letscher, Saint Louis University, August 2011 revision
+- [Sololearn](https://www.sololearn.com/Play/CPlusPlus)
 
 
-## Machine learning
+## C++ Crash Course 
 
-- [split dataset](machine-learning/split_dataset.py)
-- [Compute Receptive Field](machine-learning/computeReceptiveField.py)
+- [Gibs Jose's C++ Cheat Sheet](https://github.com/gibsjose/cpp-cheat-sheet)
+- [Crash Course by Nicolas P Rougie](https://www.labri.fr/perso/nrougier/teaching/c++-crash-course/index.html)
+- [Learn C++ From Programiz](https://www.programiz.com/cpp-programming/return-reference)
+- [C++ Notes by Fredosaurus](http://www.fredosaurus.com/notes-cpp/index.html), [Expanding an Array](http://www.fredosaurus.com/notes-cpp/newdelete/55dynexample.html)
 
 
-Demo of thresholding algorithm
+## Other resources
 
-![Alt Text](run-length-encoding/ThresholdingAlgo.gif)
-
-## word2vec
-
-In this competition, the goal is to predict a sentiment label for a dataset of 50,000 IMDB movie reviews. The sentiment is binary so that IMDB ratings < 5 result in a sentiment score of 0 and ratings >= 7 have a sentiment score of 1. The XGboost algorithm was trained on a term-document matrix where each row is a tf-idf vector representation of a review.
-
-<p align="center">
-<img src="https://github.com/ifding/python/blob/master/word2vec/figures/word2vec_merged.png" />
-</p>
-
-The figure above shows a t-SNE embedding of the word vectors for the first 2000 reviews. The size of the word feature space was set to 5000. With a tree depth of 10 and 10 boosting iterations, XGboost algorithm achieves low test error rate.
-
-References:  
-*https://www.kaggle.com/c/word2vec-nlp-tutorial* 
-
-## Speech Recognition
-
-If you want to get to know some details about MFCC take a look at this great [tutorial](http://haythamfayek.com/2016/04/21/speech-processing-for-machine-learning.html).
-
-In classical, but still state-of-the-art systems, MFCC or similar features are taken as the input to the system instead of spectrograms.
-
-However, in end-to-end (often neural-network based) systems, the most common input features are probably raw spectrograms, or mel power spectrograms. For example MFCC decorrelates features, but NNs deal with correlated features well. 
-
-<p align="center">
-<img src="https://github.com/ifding/python/blob/master/speech/figures/speech_features1.png" />
-</p>
-
-References:  
-*https://www.kaggle.com/davids1992/speech-representation-and-data-exploration*
-
-## Great plots
-
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+- [The C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines)
+- [A curated list of awesome C++ frameworks, libraries and software](https://github.com/pfultz2/awesome-cpp-1)
+- [slides, discussion and exercices for the c++ co-learning in zurich](https://github.com/opentechschool-zurich/cpp-co-learning)
+- [SweetLoverFT/CPlusPlus](https://github.com/SweetLoverFT/CPlusPlus)
+- [Repository for those who learn C++14, STL and Boost](https://github.com/Evgeny-Bukovski/ForStudentsLearningCpp)
